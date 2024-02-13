@@ -177,7 +177,7 @@ for source in d_response["sources"].split(", "):
     print("- " + source)
 ```
 
-```
+```output
 Response:
  Geoffrey Hinton has expressed concerns about the potential dangers of AI, such as false text, images, and videos created by AI, and the impact of AI on the job market. He believes that AI has the potential to replace humans as the dominant species on Earth.
 
