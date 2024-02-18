@@ -6,7 +6,7 @@ Let’s explore a more advanced application of Artificial Intelligence - buildin
 
 The chain sends structured prompts to the underlying language model to generate responses. These prompts are crafted to guide the language model's generation, thereby improving the quality and relevance of the responses. Additionally, the retrieval chain is designed to keep track of the sources of information it retrieves to provide answers, offering the ability to back up its responses with credible references.
 
-As we proceed, we'll learn how to:
+As we proceed, we'll see how to:
 
 1. Scrape online articles and store each article's text content and URL.
 2. Use an embedding model to compute embeddings of these documents and store them in Deep Lake, a vector database.
