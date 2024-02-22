@@ -186,7 +186,8 @@ Sources:
 - https://www.artificialintelligence-news.com/2023/05/15/iurii-milovanov-softserve-how-ai-ml-is-helping-boost-innovation-and-personalisation/
 ```
 
-That's it! You've now built a question-answering chatbot that can provide answers from a collection of documents and indicate where it got its information.
+That's it! We've now built a question-answering chatbot that can provide answers from a collection of documents and indicate where it got its information.
+
 
 # Conclusion
 The chatbot was able to provide an answer to the question, giving a brief overview of Geoffrey Hinton's views on recent trends in AI. The sources provided and the answer traces back to the original articles expressing these views. This process adds a layer of credibility and traceability to the chatbot's responses. The presence of multiple sources also suggests that the chatbot was able to draw information from various documents to provide a comprehensive answer, demonstrating the effectiveness of the RetrievalQAWithSourcesChain in retrieving information.
